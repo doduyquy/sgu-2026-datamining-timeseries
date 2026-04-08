@@ -6,6 +6,9 @@
 
 ## Tóm tắt seminar
 
+Trong seminar này, chúng tôi tìm hiểu về dữ liệu time series và các cách thức trực quan hóa dữ liệu, phân tích dữ liệu và dùng các model thống kê để dự đoán dữ liệu.
+
+Ngoài ra, chúng tôi còn lấy dữ liệu Bitcoin gần nhất, lấy các model trong sách để so sánh với các model Học máy hiện. Kết quả cho ra model **XGBoost** cho thấy kết quả khả quan nhất.
 
 
 ## Cấu trúc project
